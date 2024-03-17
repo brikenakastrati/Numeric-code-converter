@@ -9,6 +9,10 @@
 *.user
 *.userosscache
 *.sln.docstates
+DETYRE.vcxproj
+DETYRE.vcxproj.filters
+.gitattributes
+DETYRE.sln
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
