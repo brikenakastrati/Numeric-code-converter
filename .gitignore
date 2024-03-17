@@ -9,10 +9,14 @@
 *.user
 *.userosscache
 *.sln.docstates
-DETYRE.vcxproj
-DETYRE.vcxproj.filters
+# Ignore Visual Studio project and solution files
+*.vcxproj
+*.vcxproj.filters
+*.sln
+
+# Ignore Git attributes file
 .gitattributes
-DETYRE.sln
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
